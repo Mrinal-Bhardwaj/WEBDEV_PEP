@@ -1,8 +1,8 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 // const cred = require('./credentials.js');
-const id = "";
-const pw = "";
+const id = "";  // Add your username here
+const pw = "";  // Add your password here
 let browser;
 let tab;
 
